@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WoofApps</string>
+    <string name="dog_name_1">Jeki</string>
+    <string name="dog_name_2">Jono</string>
+    <string name="dog_name_3">Sumanto</string>
+    <string name="dog_name_4">Eddy</string>
+    <string name="dog_name_5">Dinda</string>
+    <string name="dog_name_6">Cici</string>
+    <string name="description_1">Anjing ini sangat buas dan harus berhati-hati saat memegangnya</string>
+    <string name="description_2">Dia suka makan banyak dan jarang tidur</string>
+    <string name="description_3">Hewan kanibal suka makan orang</string>
+    <string name="descripsi4">Anjing gila</string>
+    <string name="descripsi5">Suka ngambek</string>
+    <string name="descripsi6">Susah nurut</string>
+    <string name="about">Pesan:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
